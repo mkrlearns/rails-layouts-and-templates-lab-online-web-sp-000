@@ -103,10 +103,13 @@ GEM
       bundler (>= 1.3.0)
       railties (= 5.0.7.2)
       sprockets-rails (>= 2.0.0)
+<<<<<<< HEAD
     rails-controller-testing (1.0.5)
       actionpack (>= 5.0.1.rc1)
       actionview (>= 5.0.1.rc1)
       activesupport (>= 5.0.1.rc1)
+=======
+>>>>>>> 24ae1032b9c97b03f17715f1cd50a1ecb98e633d
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
@@ -190,7 +193,10 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   rails
+<<<<<<< HEAD
   rails-controller-testing
+=======
+>>>>>>> 24ae1032b9c97b03f17715f1cd50a1ecb98e633d
   rspec-rails
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
